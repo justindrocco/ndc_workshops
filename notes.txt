@@ -1,1 +1,3 @@
 https://docs.github.com/en/codespaces/developing-in-codespaces/forwarding-ports-in-your-codespace
+https://crypto-workshop.chillicream.com/docs/Hot%20Chocolate/Hello-World
+https://yarnpkg.com/
